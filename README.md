@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-- 🔒 Authentication, Validation, CRUD
 
 ---
 
