@@ -36,13 +36,11 @@
 
 ## 📲 Connect with Me
 
-- 📧 Email: [your-milesh2309@gmail.com](mailto:your-milesh2309@gmail.com)
-- 📸 Instagram: [@_milendrasinhji_610](https://instagram.com/_milendrasinhji_610)
-- 📱 Telegram: [@milesh2309](https://t.me/milesh2309)
-- 📘 Facebook: [Profile](https://www.facebook.com/share/14HKb6B2r61/)
-- 👻 Snapchat: @milendrasinh20
-- 💼 LinkedIn: [Mileshkumar Vaghela](https://www.linkedin.com/in/mileshkumar-vaghela)
-
----
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-milesh2309@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_milendrasinhji_610)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/milesh2309)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/14HKb6B2r61/)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://www.snapchat.com/add/milendrasinh20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mileshkumar-vaghela)
 
 ⭐️ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
