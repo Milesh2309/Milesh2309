@@ -1,13 +1,10 @@
-# 👋 Hi, I'm Mileshkumar Vaghela
+# Hi, My name is Vaghela Mileshkumar.
 
-🔥 MSc IT Final Year Student | Aspiring Software Developer  
-🔭 Currently working on Full Stack Web Development  
-🌱 Continuously learning new technologies  
-👯 Looking to collaborate on real-world projects  
-🧠 Passionate about building useful digital tools  
-⚡ Fun fact: I love debugging more than writing new code 😄
+🔥 Final Year MSc IT Student | Future Software Developer 
+🔥 MSc IT Final Year Student | Future Software Developer 🔭 Working on full stack web development right now 🌱 and constantly picking up new skills 👯 Seeking to work together on practical projects 🧠 Dedicated to creating practical digital tools ⚡ Fun fact: I prefer debugging to writing new code. 😄
+Fun fact: I prefer debugging to writing new code.
 
----
+...
 
 ## 🧰 Tech Stack
 
